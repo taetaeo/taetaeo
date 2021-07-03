@@ -3,6 +3,12 @@
 
 ### Front-End Developer
 
+> ***"어제보다 더 나은 오늘을 살자"***
+
+
+
+
+
 #### 📌 Education
 
  🏫 Graduated from ***Zion High School***
