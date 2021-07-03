@@ -1,7 +1,7 @@
 
 # Oh Tae Kwon | 오태권(吳太權)
 
-## Front-End Developer
+### Front-End Developer
 
 #### 📌 Education
 
