@@ -2,9 +2,19 @@
 
 #### 📌 Education
 
- 🏫 Graduated from 
+ 🏫 Graduated from ***Zion High School***
 
- 🏫 Graduated from 
+ 🏫 Graduated from ***Incheon National University, Bachelor of Creative HRD in Scoial-Science, 
+ 
+ 🏫 Graduated from ***Incheon National University, Minor Bachelor of Social DataSience in Scoial-Science, 
+
+#### 📌 Activity
+
+ 🏫 Completed from ***Big data analysis expert training course by AsiaEconomy***
+
+ 🏫 Completed from ***AI-based intelligent service developer training course by Multi-Campus***
+ 
+ 
 
 #### 📌 Core Competency
 
