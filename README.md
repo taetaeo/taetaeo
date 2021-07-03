@@ -1,7 +1,7 @@
 
 # Oh Tae Kwon | 오태권(吳太權)
 
-### Front-End Developer
+### Front-End Developer | FullStack
 
 > ***"어제보다 더 나은 오늘을 살자"***
 
