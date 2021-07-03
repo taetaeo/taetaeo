@@ -4,9 +4,9 @@
 
  🏫 Graduated from ***Zion High School***
 
- 🏫 Graduated from ***Incheon National University, Bachelor of Creative HRD in Scoial-Science, 
+ 🏫 Graduated from ***Incheon National University, Bachelor of Creative HRD in Scoial-Science,***
  
- 🏫 Graduated from ***Incheon National University, Minor Bachelor of Social DataSience in Scoial-Science, 
+ 🏫 Graduated from ***Incheon National University, Minor Bachelor of Social DataSience in Scoial-Science,***
 
 #### 📌 Activity
 
