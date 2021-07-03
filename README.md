@@ -16,6 +16,8 @@
  🏫 Graduated from ***Incheon National University, Bachelor of Creative HRD in Scoial-Science,***
  
  🏫 Graduated from ***Incheon National University, Minor Bachelor of Social DataSience in Scoial-Science,***
+ 
+ 
 
 #### 📌 Activity
 
@@ -23,7 +25,13 @@
 
  :school_satchel: Completed from ***AI-based intelligent service developer training course by Multi-Campus***
  
+ 
+ 
 #### 📌 Award
+
+ :trophy: 
+
+
 
 
 #### 📌 Core Competency
