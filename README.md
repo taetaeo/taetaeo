@@ -19,9 +19,9 @@
 
 #### 📌 Activity
 
- 🏫 Completed from ***Big data analysis expert training course by AsiaEconomy***
+ :school_satchel: Completed from ***Big data analysis expert training course by AsiaEconomy***
 
- 🏫 Completed from ***AI-based intelligent service developer training course by Multi-Campus***
+ :school_satchel: Completed from ***AI-based intelligent service developer training course by Multi-Campus***
  
 #### 📌 Award
 
