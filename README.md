@@ -17,20 +17,20 @@ The areas that I am most interested in **Data science** and **Front-end.** I wan
 
 ### 📄 Career
 
-|                    Type                     |          Date          |                           Contents                           |                         Organization                         |
-| :-----------------------------------------: | :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|            🏫<br />**Education**             | 2018.03 ~<br />2020.08 | **1) Human Resource Development,**<br />**2) Social Data Science** |               **Incheon National University**                |
-| :school_satchel:**<br />External Activity** | 2020.10 ~<br />2021.01 |     ***Big data analysis expert<br /> training course***     |                       **Asia Economy**                       |
-|    :school_satchel:**External Activity**    | 2021.01 ~<br />2021.05 | ***AI-based intelligent service <br />developer training course*** |                       **Multi-Campus**                       |
-|           **:office:Employment**            |       2021.07 ~        |                   ***Public Data ntern***                    | **1) NIA, <br />Korea Intelligence Information Society Promotion Agency**<br />**2) Open Data Potal** |
+|                    Type                     |          Date          |                           Contents                           |              Organization               |
+| :-----------------------------------------: | :--------------------: | :----------------------------------------------------------: | :-------------------------------------: |
+|            🏫<br />**Education**             | 2018.03 ~<br />2020.08 | **1) Human Resource Development,**<br />**2) Social Data Science** |     **Incheon National University**     |
+| :school_satchel:**<br />External Activity** | 2020.10 ~<br />2021.01 |     ***Big data analysis expert<br /> training course***     |            **Asia Economy**             |
+| :school_satchel:**<br />External Activity** | 2021.01 ~<br />2021.05 | ***AI-based intelligent service <br />developer training course*** |            **Multi-Campus**             |
+|        **:office:<br />Employment**         |       2021.07 ~        |                   ***Public Data ntern***                    | **1) NIA** <br />**2) Open Data Potal** |
 
 
 
 #### 📌 Award
 
- :trophy: **Excellence Award, Big Data Analysis-Based Service Planning Modeling Competition, 2021.01.05 by Asia Economy**
+ :trophy: **Excellence Award, 2021.01.05, Big Data Analysis-Based Service Planning Modeling Competition by Asia Economy**
 
-:trophy: **Second placeIn, Intelligent Web Services Development Final Project, 2021.05.12 by Multicampus**,
+ :trophy: **2nd place,  2021.05.12 , Intelligent Web Services Development Final Project by Multicampus**,
 
 
 
