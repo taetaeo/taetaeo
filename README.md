@@ -7,29 +7,32 @@
 
 
 
+Hello I'm TK,
+
+My major is **Creative HRD.📕** and My minor-major is **Social Data Science.📗**  and I have been studying **computer science**💻 since 2020. I have  project experiences using Python**(My most confident language)**, Java, Javascript**(My most confident language)**, Spring, AWS, docker and so on..
+
+The areas that I am most interested in **Data science** and **Front-end.** I want to be a **Front-end **and **Full-stack** developer who implements user-view interfaces.
 
 
-#### 📌 Education
 
- 🏫 Graduated from ***Zion High School***
+### 📄 Career
 
- 🏫 Graduated from ***Incheon National University, Bachelor of Creative HRD in Scoial-Science,***
- 
- 🏫 Graduated from ***Incheon National University, Minor Bachelor of Social DataSience in Scoial-Science,***
- 
- 
+|                    Type                    |          Date          |                           Contents                           |                         Organization                         |
+| :----------------------------------------: | :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|            🏫<br />**Education**            | 2018.03 ~<br />2020.08 | **1) Human Resource Development,**<br />**2) Social Data Science** |               **Incheon National University**                |
+| :school_satchel:**External<br />Activity** | 2020.10 ~<br />2021.01 |     ***Big data analysis expert<br /> training course***     |                       **Asia Economy**                       |
+| :school_satchel:**External<br />Activity** | 2021.01 ~<br />2021.05 | ***AI-based intelligent service <br />developer training course*** |                       **Multi-Campus**                       |
+|           **:office:Employment**           |       2021.07 ~        |                   ***Public Data ntern***                    | **NIA, Korea Intelligence Information Society Promotion Agency**<br />**Open Data Potal** |
 
-#### 📌 Activity
 
- :school_satchel: Completed from ***Big data analysis expert training course by AsiaEconomy***
 
- :school_satchel: Completed from ***AI-based intelligent service developer training course by Multi-Campus***
- 
- 
- 
 #### 📌 Award
 
- :trophy: 
+ :trophy: **Excellence Award, Big Data Analysis-Based Service Planning Modeling Competition by Asia Economy**
+
+:trophy:**Second placeIn, Intelligent Web Services Development Final Project by Multicampus**
+
+
 
 
 
