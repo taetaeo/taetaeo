@@ -1,4 +1,4 @@
-![mainImg](https://github.com/ohtaekwon/ohtaekwon/blob/master/img/main.jpg?raw=true)
+![mainImg](https://github.com/ohtaekwon/ohtaekwon/blob/master/img/main_1.jpg?raw=true)
 
 
 
