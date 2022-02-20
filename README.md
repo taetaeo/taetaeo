@@ -17,6 +17,7 @@ My major is **Creative HRD.📕** and My minor-major is **Social Data Science.�
 The areas that I am most interested in **Data science** and **Front-end.** I want to be a **Front-end **and **Full-stack** developer who implements user-view interfaces.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohtaekwon&show_icons=true&theme=radical)
 
 ### 📄 Career
 
