@@ -1,50 +1,143 @@
 
 
+# Oh Tae Kwon | 오태권
 
-# Oh Tae Kwon | 오태권(吳太權)
-
-### AI Engineer | Front-End Developer | FullStack
+### Front-End Developer | FullStack
 
 > ***"어제보다 더 나은 오늘을 살자 "*** (Let's live a better day than yesterday.)
 
 
 
-Hello I'm TK,
+<div align=center><h1>👋 안녕하세요 </h1></div>
 
-My major is **Creative HRD.📕** and My minor-major is **Social Data Science.📗**  and I have been studying **computer science**💻 since 2020. I have  project experiences using Python**(My most confident language)**, Java, Javascript**(My most confident language)**, Spring, AWS, docker and so on..
-
-The areas that I am most interested in **Data science** and **Front-end.** I want to be a **Front-end **and **Full-stack** developer who implements user-view interfaces.
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohtaekwon&show_icons=true&theme=radical)
-
-### 📄 Career
-
-|                    Type                     |          Date          |                           Contents                           |              Organization               |
-| :-----------------------------------------: | :--------------------: | :----------------------------------------------------------: | :-------------------------------------: |
-|            🏫<br />**Education**             | 2018.03 ~<br />2020.08 | **1) Human Resource Development,**<br />**2) Social Data Science** |     **Incheon National University**     |
-| :school_satchel:**<br />External Activity** | 2020.10 ~<br />2021.01 |     ***Big data analysis expert<br /> training course***     |            **Asia Economy**             |
-| :school_satchel:**<br />External Activity** | 2021.01 ~<br />2021.05 | ***AI-based intelligent service <br />developer training course*** |            **Multi-Campus**             |
-|        **:office:<br />Employment**         |       2021.07 ~        |                   ***Public Data Intern***                   | **1) NIA** <br />**2) Open Data Potal** |
+<div align=center>
+    <h4>꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. 
+        <br/>백엔드로 시작해서 2022년 현재 프론트엔드 개발자로 나아가기 위해 노력하고 있습니다.
+        <br/>주로 웹 앱을 기반으로 역량을 길러 오고 있습니다.
+    </h4></div>
 
 
 
-#### 📌 Award
-
- :trophy: **Excellence Award, 2021.01.05, Big Data Analysis-Based Service Planning Modeling Competition by Asia Economy**
-
- :trophy: **2nd place,  2021.05.12 , Intelligent Web Services Development Final Project by Multicampus**,
+<br/>
 
 
 
+<div align=center><h1>📚 STACKS</h1></div>
 
-#### 📌 Core Competency
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" > 
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br/>
+</div>
 
- 🔧 ***Programming Language***:
 
- [![img](https://camo.githubusercontent.com/65d66f7606146121eb6565a9a335a7adb916ec6e9940ee2c63b24056f104e632/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/65d66f7606146121eb6565a9a335a7adb916ec6e9940ee2c63b24056f104e632/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/9ed9c70f20709b1d23ccd6eb9a5bc126e1748021f45ca3494874b048e64a3fd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/9ed9c70f20709b1d23ccd6eb9a5bc126e1748021f45ca3494874b048e64a3fd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/191ebf05d804f7a2e9235f1428fb0f748930ac1d3c4890fa1232f993793ed0bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/191ebf05d804f7a2e9235f1428fb0f748930ac1d3c4890fa1232f993793ed0bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/43821ba9491c14b1cfc015bb988e0d3772903bf9f6a8366ac4d7e5f6486597a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4d61726b646f776e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/43821ba9491c14b1cfc015bb988e0d3772903bf9f6a8366ac4d7e5f6486597a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4d61726b646f776e266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/270c3447a464e9ed397c7b968c34bcebf58201dca621f3c4074b37e721530215/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/270c3447a464e9ed397c7b968c34bcebf58201dca621f3c4074b37e721530215/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)
 
- 🔧***Tech Stack*** : Techs that I've used at leaast once
+​									![tk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohtaekwon&row=1&show_icons=true&theme=radical)	[![ohtaekwon github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohtaekwon&row=1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&t&layout=compact)](https://github.com/ohtaekwon)
 
- [![img](https://camo.githubusercontent.com/e3fc19d6714e647cf433300cf1038388a82dbe727d05e502b77aafb50ee439de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d416d617a6f6e253230415753266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/e3fc19d6714e647cf433300cf1038388a82dbe727d05e502b77aafb50ee439de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d416d617a6f6e253230415753266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/b5ae7f025ca5215b59af01312bf6ad8eec774c30adc705e583bd6063d9237658/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d476f6f676c65253230436c6f7564266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/b5ae7f025ca5215b59af01312bf6ad8eec774c30adc705e583bd6063d9237658/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d476f6f676c65253230436c6f7564266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/83d4e4082c46f7640607a82a7db3760e49e457b5f1729870637e019c5cbec70c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666c61742d737175617265266c6f676f3d4d6963726f736f667425323053514c253230536572766572266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/83d4e4082c46f7640607a82a7db3760e49e457b5f1729870637e019c5cbec70c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666c61742d737175617265266c6f676f3d4d6963726f736f667425323053514c253230536572766572266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b772ec8f2ef6ed0f9e7a42e81d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b772ec8f2ef6ed0f9e7a42e81d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/7f3358200e42dce9c4dbd917ebc2432e3b46270ad05ea30933a750d60131aeca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666c61742d737175617265266c6f676f3d4f7261636c65266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/7f3358200e42dce9c4dbd917ebc2432e3b46270ad05ea30933a750d60131aeca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666c61742d737175617265266c6f676f3d4f7261636c65266c6f676f436f6c6f723d7768697465)
-​ [![img](https://camo.githubusercontent.com/c5f0a0cba7632bbc37f565071fb6427fd1835beb2a1bf8ffbb2c9569bb419f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666c61742d737175617265266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/c5f0a0cba7632bbc37f565071fb6427fd1835beb2a1bf8ffbb2c9569bb419f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666c61742d737175617265266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/58fe796d9e41f0285564af914643a77dd73fe069f018143eae99e864a63519b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b6974206c6561726e2d4637393331453f7374796c653d666c61742d737175617265266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/58fe796d9e41f0285564af914643a77dd73fe069f018143eae99e864a63519b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b6974206c6561726e2d4637393331453f7374796c653d666c61742d737175617265266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/e07c4bb843e69616d1147f62413c6b2df29ac48fd10eece4c036b15b3276df10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666c61742d737175617265266c6f676f3d53656c656e69756d266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/e07c4bb843e69616d1147f62413c6b2df29ac48fd10eece4c036b15b3276df10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666c61742d737175617265266c6f676f3d53656c656e69756d266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/987ee9736b8abf053cd49e1b50f3eed4f17f9be59b70da013abd2c7c3197c180/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/987ee9736b8abf053cd49e1b50f3eed4f17f9be59b70da013abd2c7c3197c180/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/212d3b41bc717c3ea471d061e735a7c34bafee75f65b60719ae8feacac9d5a0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373238363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/212d3b41bc717c3ea471d061e735a7c34bafee75f65b60719ae8feacac9d5a0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373238363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/a3f3334e90b76678655dc24a64dfaf50c6c15bbbe75de87f321c792fa4c34795/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/a3f3334e90b76678655dc24a64dfaf50c6c15bbbe75de87f321c792fa4c34795/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+
+
+
+
+​															[![ohtaekwon](https://github-profile-trophy.vercel.app/?username=ohtaekwon&row=1)](https://github.com/ohtaekwon)
+
+<br/>
+
+<br/>
+
+<h2>1. Project - Publishing</h2>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ohtaekwon/starbucks" title="스타벅스 깃허브 🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/starbucks/master/_assets/main_screenshot.jpg" width="550" alt-text="Frontend Roadmap" >
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ohtaekwon/subway--publishing" title="서브웨이 깃허브">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/subway--publishing/master/image/main.png" width="550" alt-text="">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<h2>2. Project - Vue3  </h2>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ohtaekwon/VUE3-MOVIE-APP" title="VUE기반 MOVIE-APP 깃허브 🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/OHTK-Portfolio/master/images/movie-app.png" width="550" alt-text="Frontend Roadmap" >
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ohtaekwon/subway--publishing" title="VUE기반 TODOAPP 깃허브">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/OHTK-Portfolio/master/images/My-TODO-APP-MAIN.png" width="550" alt-text="">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<h2>3. Project - React  </h2>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ohtaekwon/React-MiniProject-Movie-AppP" title="React 기반 movie webapp 🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/React-movie.png" width="550" alt-text="Frontend Roadmap" >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ohtaekwon" title="GitHub OHTAEKWON">
+    <img src="https://img.shields.io/github/followers/ohtaekwon?label=follow&style=social" alt-text="GitHub OHTAEKWON" height="30"/>
+  </a>
+
+
+
+
+
