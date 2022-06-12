@@ -16,11 +16,7 @@
         <br/>주로 웹 앱을 기반으로 역량을 길러 오고 있습니다.
     </h4></div>
 
-
-
 <br/>
-
-
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -61,15 +57,13 @@
 
 
 
-​									![tk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohtaekwon&row=1&show_icons=true&theme=radical)	[![ohtaekwon github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohtaekwon&row=1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&t&layout=compact)](https://github.com/ohtaekwon)
-
-
-
-
-
-​															[![ohtaekwon](https://github-profile-trophy.vercel.app/?username=ohtaekwon&row=1)](https://github.com/ohtaekwon)
-
-<br/>
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=ohtaekwon&row=1&show_icons=true&theme=radical"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohtaekwon&row=1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&t&layout=compact"/>
+    <br/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ohtaekwon&row=1"/>
+</div>
 
 <br/>
 
@@ -136,6 +130,7 @@
   <a href="https://github.com/ohtaekwon" title="GitHub OHTAEKWON">
     <img src="https://img.shields.io/github/followers/ohtaekwon?label=follow&style=social" alt-text="GitHub OHTAEKWON" height="30"/>
   </a>
+
 
 
 
