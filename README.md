@@ -112,7 +112,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/ohtaekwon/React-MiniProject-Movie-AppP" title="React 기반 movie webapp 🚀">
+        <a href="https://github.com/ohtaekwon/React-MiniProject-Movie-App" title="React 기반 movie webapp 🚀">
           <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/React-movie.png" width="550" alt-text="Frontend Roadmap" >
         </a>
       </td>
