@@ -1,4 +1,4 @@
-# Oh Tae Kwon | 오태권 | Front-End Developer | FullStack
+<div align=center><h1>Oh Tae Kwon | 오태권 | Front-End Developer | FullStack </h1></div>
 
 <div align=center><h1>👋 Hello World </h1></div>
 
