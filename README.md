@@ -1,6 +1,6 @@
 <div align=center><h1>Oh Tae Kwon | 오태권 | Front-End Developer | FullStack </h1></div>
 
-<div align=center><h1>👋 Hello World </h1></div>
+<div align=center><h2>👋 Hello World </h2></div>
 
 <div align=center>
     <h4>꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -57,9 +57,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ohtaekwon&row=1"/>
 </div>
 
-<br/>
 
-<h2>1. Project - Publishing</h2>
+<h3>1. Project - Publishing</h2>
 <table>
   <tbody>
     <tr>
@@ -77,9 +76,8 @@
   </tbody>
 </table>
 
-<br/>
 
-<h2>2. Project - Vue3  </h2>
+<h3>2. Project - Vue3  </h2>
 <table>
   <tbody>
     <tr>
@@ -97,9 +95,8 @@
   </tbody>
 </table>
 
-<br/>
 
-<h2>3. Project - React  </h2>
+<h3>3. Project - React  </h2>
 <table>
   <tbody>
     <tr>
