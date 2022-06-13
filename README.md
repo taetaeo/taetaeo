@@ -4,11 +4,7 @@
 
 ### Front-End Developer | FullStack
 
-> ***"어제보다 더 나은 오늘을 살자 "*** (Let's live a better day than yesterday.)
-
-
-
-<div align=center><h1>👋 안녕하세요 </h1></div>
+<div align=center><h1>👋 Hello World </h1></div>
 
 <div align=center>
     <h4>꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. 
