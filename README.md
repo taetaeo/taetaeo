@@ -111,7 +111,7 @@
 
 <br/>
 
-<b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b>
+<!-- <b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b> -->
 
 ---
 
