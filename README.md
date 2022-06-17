@@ -87,7 +87,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/ohtaekwon/subway--publishing" title="VUE기반 TODOAPP 깃허브">
+        <a href="https://github.com/ohtaekwon/My-Todo-App" title="VUE기반 TODOAPP 깃허브">
           <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/OHTK-Portfolio/master/images/My-TODO-APP-MAIN.png" width="550" alt-text="">
         </a>
       </td>
