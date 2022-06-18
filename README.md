@@ -1,4 +1,4 @@
-<div align=center><img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="550"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350"/></div>
 
 <div align=center><h2>👋 Hello World </h2></div>
 
