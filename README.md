@@ -1,4 +1,4 @@
-<div display=flex>
+<div display="flex">
 	<img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350" style="float: left"/>
 	<div style="float: righ><h2>👋 Hello World </h2></div>
 	<div style="float: righ>
