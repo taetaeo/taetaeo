@@ -1,4 +1,4 @@
-<div align=center><h1>Oh Tae Kwon | 오태권 | Front-End Developer | FullStack </h1></div>
+<div align=center><img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif"/></div>
 
 <div align=center><h2>👋 Hello World </h2></div>
 
