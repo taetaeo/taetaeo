@@ -1,6 +1,6 @@
 <div display=flex>
-	<img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350"/>
-	<div><h2>👋 Hello World </h2></div>
+	<img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350" style="float: left"/>
+	<div style="float: righ><h2>👋 Hello World </h2></div>
 	<div>
 	    <h4>꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. 
 		<br/>백엔드로 시작해서 2022년 현재 프론트엔드 개발자로 나아가기 위해 노력하고 있습니다.
