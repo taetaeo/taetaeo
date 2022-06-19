@@ -2,13 +2,15 @@
 <img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350" />
 </div>
 
-<div align=center><h2>👋 Hello World </h2></div>
+<div align=center><h2>👋 About me </h2></div>
 
 <div align=center>
-    <h4>꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. 
-        <br/>백엔드로 시작해서 2022년 현재 프론트엔드 개발자로 나아가기 위해 노력하고 있습니다.
-        <br/>주로 웹 앱을 기반으로 역량을 길러 오고 있습니다.
-    </h4></div>
+    <h5>꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. 
+	<br/> 호기심과 도전의식이 강해 데이터 분야에서 백엔드와 프론트엔드의 공부를 하며 다양성을 넓히는 개발자
+	<br/> 메인 언어 JS 로 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자
+	<br/> 컴포넌트 기반 개발에 관심을 가지고 역량을 쌓고 있는 개발자
+	<br/> 주로 웹앱 기반의 개발을 하고 있습니다.
+    </h5></div>
 
 
 <div align=center><h2>📚 STACKS</h2></div>
