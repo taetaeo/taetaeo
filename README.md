@@ -112,6 +112,18 @@
   </tbody>
 </table>
 
+<h3>3. Toy Project - React  </h2>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ohtaekwon/React-Rock-Paper-Scissors-Game" title="React 기반 Mini Game 🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/Dice.png" width="550" alt-text="Frontend Roadmap" >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br/>
 
 <!-- <b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b> -->
