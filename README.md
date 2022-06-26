@@ -61,7 +61,7 @@
 </div>
 
 
-<h3>1. Project - Publishing</h2>
+<h3>Web Publishing - html, css, js</h2>
 <table>
   <tbody>
     <tr>
@@ -80,7 +80,7 @@
 </table>
 
 
-<h3>2. Project - Vue3  </h2>
+<h3>Vue3 - vue.js, js, css </h2>
 <table>
   <tbody>
     <tr>
@@ -99,7 +99,7 @@
 </table>
 
 
-<h3>3. Project - React  </h2>
+<h3>React - React.js, js, css  </h2>
 <table>
   <tbody>
     <tr>
