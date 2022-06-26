@@ -79,6 +79,23 @@
   </tbody>
 </table>
 
+<h3>React - React.js, js, css  </h2>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ohtaekwon/React-MiniProject-Movie-App" title="React 기반 movie 리뷰 web 깃허브🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/React-movie.png" width="550" alt-text="Frontend Roadmap" >
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ohtaekwon/wanted-pre-onboarding-fe/tree/master" title="React 기반 인스타그램 깃허브 🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/OHTK-Portfolio/master/images/instar_main_1.png" width="550" alt-text="Frontend Roadmap">
+        </a>
+      </td>	    
+    </tr>
+  </tbody>
+</table>
 
 <h3>Vue3 - vue.js, js, css </h2>
 <table>
@@ -99,23 +116,6 @@
 </table>
 
 
-<h3>React - React.js, js, css  </h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/ohtaekwon/React-MiniProject-Movie-App" title="React 기반 movie 리뷰 web 깃허브🚀">
-          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/React-movie.png" width="550" alt-text="Frontend Roadmap" >
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ohtaekwon/wanted-pre-onboarding-fe/tree/master" title="React 기반 인스타그램 깃허브 🚀">
-          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/OHTK-Portfolio/master/images/instar_main_1.png" width="550" alt-text="Frontend Roadmap">
-        </a>
-      </td>	    
-    </tr>
-  </tbody>
-</table>
 
 <h3>3. Toy Project - React  </h2>
 <table>
