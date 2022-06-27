@@ -117,7 +117,7 @@
 
 
 
-<h3>3. Toy Project - React  </h2>
+<h3>Toy Project - React  </h2>
 <table>
   <tbody>
     <tr>
