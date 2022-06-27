@@ -126,6 +126,11 @@
           <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/Dice.png" width="550" alt-text="Frontend Roadmap" >
         </a>
       </td>
+      <td>
+        <a href="https://github.com/ohtaekwon/React-Foodit" title="React 기반 Mini foodit 깃허브🚀">
+          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/OHTK-Portfolio/master/images/foodit-main.png" width="550" alt-text="Frontend Roadmap" >
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
