@@ -41,9 +41,13 @@
 
 
 
+<img src="https://github.com/ohtaekwon/ohtaekwon/blob/master/img/Week1_2.png?raw=true width="200" height="400"/>
 
 
-![Week1_2. 영화정보사이트](https://github.com/ohtaekwon/ohtaekwon/blob/master/img/Week1_2.png?raw=true)
+
+
+
+
 
 - 웹 페이지
   - 메인 페이지에서 검색창에 검색을 통해 영화 데이터 출력 기능 기획
