@@ -43,7 +43,7 @@
 
 
 
-​          <img align="center" src="https://github.com/ohtaekwon/ohtaekwon/blob/master/img/Week1_2.png?raw=true" width="550" height="400" alt-text="Frontend Roadmap" >
+​          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/week1_2.png" width="700" height="500" alt-text="Frontend Roadmap" >
 
 
 
@@ -83,12 +83,12 @@
 │   │     └── useMovie.js
 │   ├── 📁 pages
 │   │     ├── 📁 detail
-│   │     │		└── index.jsx
+│   │     │	    └── index.jsx
 │   │     └── 📁 main
-│   │     │		└── index.jsx
+│   │     │	    └── index.jsx
 │   │     └── 📁 myList
-│   │			├── index.jsx
-│   │			└── MyListCard.jsx
+│   │		    ├── index.jsx
+│   │		    └── MyListCard.jsx
 │   ├── 📁 service
 │   │     └── movieService.js
 │   ├── 📁 utils
@@ -150,9 +150,13 @@ $ npm run start
 ## 6. 회의록
 
 - [1일차 💬](https://www.notion.so/cf4d10bb3b504ab0ae08d1f4b2a53ab1?v=c1a46a3b94eb4f449c8874f9e6b5318d&p=1d0271c19cd341c79222ee33af45e0b8)
+
 - [2일차 💬](https://www.notion.so/cf4d10bb3b504ab0ae08d1f4b2a53ab1?v=c1a46a3b94eb4f449c8874f9e6b5318d&p=5c72054b2c194f388ceff676a4583f12)
+
 - [5일차 💬](https://www.notion.so/cf4d10bb3b504ab0ae08d1f4b2a53ab1?v=c1a46a3b94eb4f449c8874f9e6b5318d&p=a6a98833708a477188bc97cb40b8e358)
 
 - [6일차 💬](https://www.notion.so/cf4d10bb3b504ab0ae08d1f4b2a53ab1?v=c1a46a3b94eb4f449c8874f9e6b5318d&p=e9a1c1787dee4737af18baa49d1f7dd0)
 
 - [7일차 💬]()
+
+  
