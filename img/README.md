@@ -37,15 +37,13 @@
 
 ## 3. 프로젝트 요약
 
-![Recoil](https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=Recoil) ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
-
-
-
-<img src="https://github.com/ohtaekwon/ohtaekwon/blob/master/img/Week1_2.png?raw=true width="200" height="400"/>
+![https://img.shields.io/badge/Laguage-React-red](https://img.shields.io/badge/Laguage-React-green?logo=react&logoColor=#377549)
 
 
 
 
+
+​          <img align="center" src="https://github.com/ohtaekwon/ohtaekwon/blob/master/img/Week1_2.png?raw=true" width="550" height="400" alt-text="Frontend Roadmap" >
 
 
 
