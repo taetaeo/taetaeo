@@ -43,7 +43,7 @@
 
 
 
-​          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/week1_2.png" width="700" height="500" alt-text="Frontend Roadmap" >
+​          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/week_1_2.png" width="700" height="500" alt-text="Frontend Roadmap" >
 
 
 
