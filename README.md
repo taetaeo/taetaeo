@@ -61,23 +61,7 @@
 </div>
 
 
-<h3>Web Publishing - html, css, js</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/ohtaekwon/starbucks" title="스타벅스 깃허브 🚀">
-          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/starbucks/master/_assets/main_screenshot.jpg" width="550" alt-text="Frontend Roadmap" >
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ohtaekwon/subway--publishing" title="서브웨이 깃허브">
-          <img align="center" src="https://raw.githubusercontent.com/ohtaekwon/subway--publishing/master/image/main.png" width="550" alt-text="">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 <!-- <b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b> -->
 
