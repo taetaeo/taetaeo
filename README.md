@@ -1,3 +1,8 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20TaeKwon%20&fontSize=90&fontAlignY=45)
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350" />
 </div>
