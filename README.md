@@ -3,9 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20T.K%20&fontSize=90&fontAlignY=45)
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/bg.gif" width="350" />
-</div>
+
 
 <div align=center><h2>👋 About me </h2></div>
 
