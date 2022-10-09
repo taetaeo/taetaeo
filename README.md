@@ -55,15 +55,6 @@
 
 
 
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=ohtaekwon&row=1&show_icons=true&theme=radical"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohtaekwon&row=1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&t&layout=compact"/>
-    <br/>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=ohtaekwon&row=1"/>
-</div>
-
-
 
 ![javascript](https://badges.aleen42.com/src/javascript.svg)
 ![node](https://badges.aleen42.com/src/node.svg)
@@ -71,6 +62,7 @@
 ![react](https://badges.aleen42.com/src/react.svg)
 ![typescript](https://badges.aleen42.com/src/typescript.svg)
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
+![next](https://badges.aleen42.com/src/next.svg)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ohtaekwon&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
 
