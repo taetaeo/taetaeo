@@ -65,7 +65,12 @@
 
 
 
-
+![javascript](https://badges.aleen42.com/src/javascript.svg)
+![node](https://badges.aleen42.com/src/node.svg)
+![vue](https://badges.aleen42.com/src/vue.svg)
+![react](https://badges.aleen42.com/src/react.svg)
+![typescript](https://badges.aleen42.com/src/typescript.svg)
+![webpack](https://badges.aleen42.com/src/webpack.svg)
 
 
 
