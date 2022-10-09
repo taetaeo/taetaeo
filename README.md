@@ -72,6 +72,7 @@
 ![typescript](https://badges.aleen42.com/src/typescript.svg)
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ohtaekwon&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
 
 
 
