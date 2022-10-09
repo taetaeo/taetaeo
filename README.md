@@ -5,9 +5,9 @@
 
 
 
-<div align=center><h2>👋 About me </h2></div>
+<h2>👋 About me </h2>
 
-<div align=center style:"background-color:d3d3d3" >
+<div style:"background-color:d3d3d3" >
     <h5 >꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. <br/>
 	<br/> 호기심과 도전의식이 강해 데이터 공부를 시작으로 현재 프론트엔드 개발자가 되고자 역량을 쌓고 있습니다. <br/>
 	<br/> 메인 언어 Python과 JS 로 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자입니다. <br/>
