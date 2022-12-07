@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20T.K%20&fontSize=90&fontAlignY=45)
 
 
-
+<!-- 
 <h2>👋 About me </h2>
 
 <div style:"background-color:d3d3d3" >
@@ -14,18 +14,18 @@
 	<br/> 메인 개발 프레임워크는 React를 사용하며, Typescript의 개발 경험이 있습니다. <br/>
 	<br/> 주로 웹앱 기반의 개발을 하고 있습니다.<br/>
     </h5></div>
+ -->
 
 
 
 
 
-
-![javascript](https://badges.aleen42.com/src/javascript.svg)
+<!-- ![javascript](https://badges.aleen42.com/src/javascript.svg)
 ![node](https://badges.aleen42.com/src/node.svg)
 ![vue](https://badges.aleen42.com/src/vue.svg)
 ![react](https://badges.aleen42.com/src/react.svg)
 ![typescript](https://badges.aleen42.com/src/typescript.svg)
-![webpack](https://badges.aleen42.com/src/webpack.svg)
+![webpack](https://badges.aleen42.com/src/webpack.svg) -->
 
 <!-- [![tk's github activity graph](https://activity-graph.herokuapp.com/graph?username=ohtaekwon&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
  -->
