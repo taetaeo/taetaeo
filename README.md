@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/taetaeo" title="GitHub OHTAEKWON">
-    <img src="https://img.shields.io/github/followers/ohtaekwon?label=follow&style=social" alt-text="GitHub OHTAEKWON" height="30"/>
+    <img src="https://img.shields.io/github/followers/taetaeo?label=follow&style=social" alt-text="GitHub OHTAEKWON" height="30"/>
   </a>
 
 
