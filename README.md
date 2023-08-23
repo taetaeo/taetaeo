@@ -34,6 +34,8 @@
 <!-- <b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b> -->
 
 ---
+![리드미 3D](https://github.com/taetaeo/taetaeo/blob/master/profile-3d-contrib/profile-gitblock.svg)
+
 
 <p align="center">
   <a href="https://github.com/taetaeo" title="GitHub OHTAEKWON">
