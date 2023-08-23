@@ -4,20 +4,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20T.K%20&fontSize=90&fontAlignY=45)
 ->
 
-<!-- 
-<h2>👋 About me </h2>
-
-<div style:"background-color:d3d3d3" >
-    <h5 >꾸준한 성장을 위해 끊임없이 도전을 하며, 도전을 두려워하지 않고 배움을 멈추지 않고 있습니다. <br/>
-	<br/> 호기심과 도전의식이 강해 데이터 공부를 시작으로 현재 프론트엔드 개발자가 되고자 역량을 쌓고 있습니다. <br/>
-	<br/> 메인 언어 Python과 JS 로 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자입니다. <br/>
-	<br/> 메인 개발 프레임워크는 React를 사용하며, Typescript의 개발 경험이 있습니다. <br/>
-	<br/> 주로 웹앱 기반의 개발을 하고 있습니다.<br/>
-    </h5></div>
- -->
-
-
-
 
 
 <!-- ![javascript](https://badges.aleen42.com/src/javascript.svg)
@@ -33,8 +19,7 @@
 
 <!-- <b><em><a href="https://ohtaekwon.github.io/OHTK-Portfolio/">더 알아보기!</a></em></b> -->
 
----
-![리드미 3D](https://github.com/taetaeo/taetaeo/blob/master/profile-3d-contrib/profile-gitblock.svg)
+![리드미 3D](https://github.com/taetaeo/taetaeo/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <p align="center">
