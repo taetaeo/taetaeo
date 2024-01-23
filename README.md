@@ -10,13 +10,6 @@
 - 관심분야 | 스마트 팩토리, MES개발, 클라우드
 
 
-### 
-
-| 기간              | 내용                                            | 프로젝트                  | URL                         |
-| ----------------- | ----------------------------------------------- | ------------------------- | --------------------------- |
-| 2023.09 - 2024.02 | 인천데이터허브 구축 사업                        | 인천시청 공공 데이터 포털 | https://data.incheon.go.kr/ |
-| 2024.02 -         | 캄보디아 빅데이터 기반 하이브리드 ITS 구축 사업 | -                         | -                           |
-
 
 
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
