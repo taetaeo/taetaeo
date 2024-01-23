@@ -1,3 +1,18 @@
+
+### About Me
+
+- 도메인 | 스마트 시티
+
+- 주기술 | 프론트엔드 (React, RN)
+
+- 부기술 | DB(MySQL, MariaDB), WAS(Spring)
+
+- 관심분야 | 스마트 팩토리, MES개발, 클라우드
+
+
+
+
+
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
 ->
 
