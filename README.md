@@ -9,6 +9,8 @@
 
 - 관심분야 | 스마트 팩토리, MES개발, 클라우드
 
+- 특기 | [라이브러리 뜯어보기]([https://github.com/taetaeo/quill-better-table](https://github.com/taetaeo/quill-better-table/commits/master/)), [라이브러리 만들기](https://www.npmjs.com/package/taeo-utils)
+
 
 
 
