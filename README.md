@@ -1,15 +1,22 @@
 
 ### About Me
 
-- 도메인 | 스마트 시티
+| 구분     |                                                       |
+| -------- | ----------------------------------------------------- |
+| 주기술   | 프론트엔드 (React, React Native)                      |
+| 부기술   | 안드로이드 (Android) DB(MySQL, MariaDB), WAS(Spring)  |
+| 관심분야 | 스마트 팩토리, MES개발, 클라우드, 스마트 시티오픈소스 |
 
-- 주기술 | 프론트엔드 (React, RN)
+### Open source
 
-- 부기술 | DB(MySQL, MariaDB), WAS(Spring)
+| name       | description                         | url                                                          |
+| :--------- | :---------------------------------- | :----------------------------------------------------------- |
+| taeo-hooks | React 기반의 커스텀 훅 라이브러리   | 1. [npm]((https://www.npmjs.com/package/taeo-hooks))<br />2. [github](https://github.com/taetaeo/taeo-hooks)<br />3. [guide](https://taeo.gitbook.io/taeo/taeo-hooks) |
+| taeo-utils | 자바스크립트 기반의 유틸 라이브러리 | 1. [npm](https://www.npmjs.com/package/taeo-utils)<br /><br />2. [github](https://github.com/taetaeo/taeo-utils) |
 
-- 관심분야 | 스마트 팩토리, MES개발, 클라우드
 
-- 특기 | [라이브러리 뜯어보기](https://github.com/taetaeo/quill-better-table/commits/master/) [라이브러리 만들기](https://www.npmjs.com/package/taeo-utils)
+
+
 
 
 
