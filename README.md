@@ -18,7 +18,7 @@
 | :--------- | :---------------------------------- | :----------------------------------------------------------- |
 | taeo-hooks | React 기반의 커스텀 훅 라이브러리   | 1. [npm](https://www.npmjs.com/package/taeo-hooks) <br /> 2. [github](https://github.com/taetaeo/taeo-hooks)<br />3. [guide](https://taeo.gitbook.io/taeo/taeo-hooks) |
 | taeo-utils | 자바스크립트 기반의 유틸 라이브러리 | 1. [npm](https://www.npmjs.com/package/taeo-utils)<br /><br />2. [github](https://github.com/taetaeo/taeo-utils) |
-
+| taeo-ui    | React 기반 ui 컴포넌트 - 바텀시트    | 1. [github](https://github.com/taetaeo/taeo-ui/tree/master) |
 
 ### Trobule Shootings
 
