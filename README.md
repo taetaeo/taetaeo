@@ -18,11 +18,14 @@
 | :--------- | :---------------------------------- | :----------------------------------------------------------- |
 | taeo-hooks | React 기반의 커스텀 훅 라이브러리   | 1. [npm](https://www.npmjs.com/package/taeo-hooks) <br /> 2. [github](https://github.com/taetaeo/taeo-hooks)<br />3. [guide](https://taeo.gitbook.io/taeo/taeo-hooks) |
 | taeo-utils | 자바스크립트 기반의 유틸 라이브러리 | 1. [npm](https://www.npmjs.com/package/taeo-utils)<br /><br />2. [github](https://github.com/taetaeo/taeo-utils) |
-| taeo-ui    | React 기반 ui 컴포넌트 - 바텀시트    | 1. [github](https://github.com/taetaeo/taeo-ui/tree/master) |
+| taeo-ui    | React 기반 ui 컴포넌트   | 1. [github](https://github.com/taetaeo/taeo-ui/tree/master) |
 
-### Trobule Shootings
+### Links
+- [BoilerPlates 모음](https://github.com/taetaeo?tab=repositories&q=boilerplate-2024&type=&language=&sort=)
+- [Trouble Shootings 모음](https://tkolab.tistory.com/search/Trouble)
 
-- [보러가기](https://tkolab.tistory.com/search/Trouble)
+
+
 
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
 ->
