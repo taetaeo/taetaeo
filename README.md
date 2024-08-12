@@ -7,7 +7,7 @@
 | -------- | ------------------------------------------------------------ |
 | 주기술   | 프론트엔드 (React, React Native)                             |
 | 부기술   | 안드로이드 (Android) DB(MySQL, MariaDB)       |
-| 도메인 | [클라우드]( https://tkolab.tistory.com/search/cloud), <br />[스마트 시티](https://tkolab.tistory.com/search/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0) , <br />스마트 팩토리, <br />[오픈소스 개발](https://taeo.gitbook.io/taeo/taeo-hooks) |
+| 도메인 | [클라우드]( https://tkolab.tistory.com/search/cloud), <br />[스마트 시티](https://tkolab.tistory.com/search/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0) , <br />[오픈소스 개발](https://taeo.gitbook.io/taeo/taeo-hooks) |
 | 블로그   | [홈페이지 바로가기](https://tkolab.tistory.com/)             |
 
 
