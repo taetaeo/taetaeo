@@ -18,7 +18,7 @@
 | :--------- | :---------------------------------- | :----------------------------------------------------------- |
 | taeo-hooks | React 기반의 커스텀 훅 라이브러리   | 1. [npm](https://www.npmjs.com/package/taeo-hooks) <br /> 2. [github](https://github.com/taetaeo/taeo-hooks)<br />3. [guide](https://taeo.gitbook.io/taeo/taeo-hooks) |
 | taeo-utils | 자바스크립트 기반의 유틸 라이브러리 | 1. [npm](https://www.npmjs.com/package/taeo-utils)<br /><br />2. [github](https://github.com/taetaeo/taeo-utils) |
-| tui-vanilla-extract    | UI 라이브러리 with @vanilla-extract  | 1. [github]([https://github.com/taetaeo/taeo-ui/tree/master](https://github.com/taetaeo/taeo-ui-with-vanilla-extract)) |
+| tui-vanilla-extract    | UI 라이브러리 with @vanilla-extract  | 1. [github](https://github.com/taetaeo/taeo-ui-with-vanilla-extract) |
 
 ### Links
 - [BoilerPlates 모음](https://github.com/taetaeo?tab=repositories&q=boilerplate-2024&type=&language=&sort=)
