@@ -19,11 +19,10 @@
 
 | Name.                                                        | Description.                                                 | repository.                                             |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
-| taeo-hooks                                                   |                                                              |                                                         |
-| **[taeo-ui-with-vanilla-extract](https://github.com/taetaeo/taeo-ui-with-vanilla-extract)** | UI Library                                                   | https://github.com/taetaeo/taeo-ui-with-vanilla-extract |
-| **[taeo-text-editor](https://github.com/taetaeo/taeo-text-editor)** | Draft.js 기반의 Rich Text Editor                             | https://github.com/taetaeo/taeo-text-editor             |
-| **[taeo-hooks](https://github.com/taetaeo/taeo-hooks)**      | React 기반의 커스텀 훅 라이브러리                            | https://github.com/taetaeo/taeo-hooks                   |
-| **[taeo-utils](https://github.com/taetaeo/taeo-utils)**      | 자바스크립트와 타입스크립트 기반의 유틸리티 함수와 모듈을 제공합니다. | https://github.com/taetaeo/taeo-utils                   |
+| **[taeo-ui-with-vanilla-extract](https://github.com/taetaeo/taeo-ui-with-vanilla-extract)** | UI Library based on @vanilla-extract/css                     | https://github.com/taetaeo/taeo-ui-with-vanilla-extract |
+| **[taeo-text-editor](https://github.com/taetaeo/taeo-text-editor)** | Rich Text Editor based on draft.js                           | https://github.com/taetaeo/taeo-text-editor             |
+| **[taeo-hooks](https://github.com/taetaeo/taeo-hooks)**      | custom hook library based on React                           | https://github.com/taetaeo/taeo-hooks                   |
+| **[taeo-utils](https://github.com/taetaeo/taeo-utils)**      | utility functions and modules based on JavaScript and TypeScript. | https://github.com/taetaeo/taeo-utils                   |
 
 
 
@@ -32,7 +31,7 @@
 - [BoilerPlates 모음](https://github.com/taetaeo?tab=repositories&q=boilerplate-2024&type=&language=&sort=)
 - [Trouble Shootings 모음](https://tkolab.tistory.com/search/Trouble)
 
-
+ 
 
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
 ->
