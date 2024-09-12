@@ -1,29 +1,36 @@
+👋 &nbsp;Hey there! I'm TaeKwon Oh\
 
-### About Me
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software\
+🌱 &nbsp;I'm on track for learning more about Spring Cloud and Kubernetes\
+✉️ &nbsp;You can shoot me an email at ohtk1119@gmail.com. I'll try to respond as soon as I can.\
+:heavy_plus_sign:  And you can check out various information through my [blog](https://tkolab.tistory.com/). 
 
 
 
-| 구분     | 내용                                                         |
-| -------- | ------------------------------------------------------------ |
-| 주기술   | 프론트엔드 (React, React Native)                             |
-| 부기술   | 안드로이드 (Android) DB(MySQL, MariaDB)       |
-| 도메인 | [클라우드]( https://tkolab.tistory.com/search/cloud), <br />[스마트 시티](https://tkolab.tistory.com/search/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0) , <br />[오픈소스 개발](https://taeo.gitbook.io/taeo/taeo-hooks) |
-| 블로그   | [홈페이지 바로가기](https://tkolab.tistory.com/)             |
+### 🛠 &nbsp;Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 
 ### Open source
 
-| name       | description                         | url                                                          |
-| :--------- | :---------------------------------- | :----------------------------------------------------------- |
-| taeo-hooks | React 기반의 커스텀 훅 라이브러리   | 1. [npm](https://www.npmjs.com/package/taeo-hooks) <br /> 2. [github](https://github.com/taetaeo/taeo-hooks)<br />3. [guide](https://taeo.gitbook.io/taeo/taeo-hooks) |
-| taeo-utils | 자바스크립트 기반의 유틸 라이브러리 | 1. [npm](https://www.npmjs.com/package/taeo-utils)<br /><br />2. [github](https://github.com/taetaeo/taeo-utils) |
-| tui-vanilla-extract    | UI 라이브러리 with @vanilla-extract  | 1. [github](https://github.com/taetaeo/taeo-ui-with-vanilla-extract) |
+| Name.                                                        | Description.                                                 | repository.                                             |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
+| taeo-hooks                                                   |                                                              |                                                         |
+| **[taeo-ui-with-vanilla-extract](https://github.com/taetaeo/taeo-ui-with-vanilla-extract)** | UI Library                                                   | https://github.com/taetaeo/taeo-ui-with-vanilla-extract |
+| **[taeo-text-editor](https://github.com/taetaeo/taeo-text-editor)** | Draft.js 기반의 Rich Text Editor                             | https://github.com/taetaeo/taeo-text-editor             |
+| **[taeo-hooks](https://github.com/taetaeo/taeo-hooks)**      | React 기반의 커스텀 훅 라이브러리                            | https://github.com/taetaeo/taeo-hooks                   |
+| **[taeo-utils](https://github.com/taetaeo/taeo-utils)**      | 자바스크립트와 타입스크립트 기반의 유틸리티 함수와 모듈을 제공합니다. | https://github.com/taetaeo/taeo-utils                   |
 
-### Links
+
+
+### :globe_with_meridians: Links
+
 - [BoilerPlates 모음](https://github.com/taetaeo?tab=repositories&q=boilerplate-2024&type=&language=&sort=)
 - [Trouble Shootings 모음](https://tkolab.tistory.com/search/Trouble)
-
 
 
 
