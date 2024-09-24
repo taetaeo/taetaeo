@@ -5,7 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software\
-🌱 &nbsp;I'm on track for learning more about Spring Cloud and Kubernetes\
+🌱 &nbsp;I'm on track for learning more about React Native and Cross-platform\
+🛠  &nbsp;I'm developing in pursuit of 100/100 coverage.\
 ✉️ &nbsp;You can shoot me an email at ohtk1119@gmail.com. I'll try to respond as soon as I can.\
 :heavy_plus_sign: And you can check out various information through my [blog](https://tkolab.tistory.com/).
 
