@@ -15,13 +15,13 @@
 
 ### Library
 
-| Name.                                                                            | Description.                                                          | repository.                                 |
-| :------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :------------------------------------------ |
-| **[taeo-hooks](https://www.npmjs.com/package/taeo-hooks)**                       | custom hook library based on `react`                                  | https://github.com/taetaeo/taeo-hooks       |
-| **[taeo-utils](https://www.npmjs.com/package/taeo-utils)**                       | utility functions and modules based on `JavaScript` and `TypeScript`. | https://github.com/taetaeo/taeo-utils       |
-| **[taeo-text-editor](https://www.npmjs.com/package/taeo-text-editor)**           | Rich Text Editor based on `draft.js`                                  | https://github.com/taetaeo/taeo-text-editor |
-| [**@taeopia/ui-with-css**](https://www.npmjs.com/package/@taeopia/ui-with-css)   | UI library based on `vanilla-extract`                                 | https://github.com/weezlely/taeopia         |
-| [**@taeopia/canvas-editor**](https://www.npmjs.com/package/@taeopia/ui-with-css) | Canvas editing library based on `fabric.js`                           | https://github.com/weezlely/taeopia         |
+| Name.                                                                          | Description.                                                          | repository.                                 |
+| :----------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :------------------------------------------ |
+| **[taeo-hooks](https://www.npmjs.com/package/taeo-hooks)**                     | custom hook library based on `react`                                  | https://github.com/taetaeo/taeo-hooks       |
+| **[taeo-utils](https://www.npmjs.com/package/taeo-utils)**                     | utility functions and modules based on `JavaScript` and `TypeScript`. | https://github.com/taetaeo/taeo-utils       |
+| **[taeo-text-editor](https://www.npmjs.com/package/taeo-text-editor)**         | Rich Text Editor based on `draft.js`                                  | https://github.com/taetaeo/taeo-text-editor |
+| [**@taeopia/ui-with-css**](https://www.npmjs.com/package/@taeopia/ui-with-css) | UI library based on `vanilla-extract`                                 | https://github.com/weezlely/taeopia         |
+| @taeopia/canvas-editor                                                         | Canvas editing library based on `fabric.js` Currently in development. | https://github.com/weezlely/taeopia         |
 
 ### :globe_with_meridians: Links
 
