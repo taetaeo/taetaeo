@@ -31,7 +31,7 @@
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Library
+### :package: Packages
 
 | Name.                                                        | Description.                                                 | repository.                                 |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------ |
@@ -45,8 +45,8 @@
 
 ### :globe_with_meridians: Links
 
-- [BoilerPlates 모음](https://github.com/taetaeo?tab=repositories&q=boilerplate-2024&type=&language=&sort=)
-- [Trouble Shootings 모음](https://tkolab.tistory.com/search/Trouble)
+- [BoilerPlates](https://github.com/taetaeo?tab=repositories&q=boilerplate-2024&type=&language=&sort=)
+- [Trouble Shootings](https://tkolab.tistory.com/search/Trouble)
 
 ![리드미 3D](https://github.com/taetaeo/taetaeo/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
